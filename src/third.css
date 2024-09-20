@@ -1,0 +1,69 @@
+.cash-application-section {
+    background-color: #f0faff;
+    text-align: center;
+    padding: 3rem;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    color: #0c4ccf;
+  }
+  
+  h2 span {
+    color: #1e50ff;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+    color: #6b7b8c;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .feature {
+    background-color: white;
+    border-radius: 10px;
+    padding: 1.5rem;
+    width: 20%;
+    min-width: 200px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    color: #1e50ff;
+  }
+  
+  .action-buttons {
+    margin-top: 2rem;
+  }
+  
+  .btn-primary {
+    background-color: #1e50ff;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    margin-right: 1rem;
+  }
+  
+  .btn-outline {
+    background-color: transparent;
+    color: #1e50ff;
+    border: 2px solid #1e50ff;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+  }
+  

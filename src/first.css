@@ -1,0 +1,56 @@
+.app {
+    background: #0c4ccf;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 50px;
+    background: transparent;
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .btn {
+    background-color: #00d6ff;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 20px;
+  }
+  
+  .btn-outline {
+    background-color: transparent;
+    color: #00d6ff;
+    border: 2px solid #00d6ff;
+    padding: 1rem 2rem;
+    border-radius: 20px;
+  }
+  
+  .main-content h1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+  }
+  
+  .main-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .dashboard-image {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 2rem;
+  }
+  

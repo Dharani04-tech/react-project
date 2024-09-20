@@ -1,0 +1,91 @@
+.cash-application-container {
+    padding: 2rem;
+  }
+  
+  .heading-section {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .heading-section h1 {
+    font-size: 2rem;
+    color: #2a3eb1;
+  }
+  
+  .heading-section p {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    color: #6a6f85;
+  }
+  
+  .features-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .feature-item {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1rem;
+  }
+  
+  .feature-item h3 {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .feature-item p {
+    font-size: 1rem;
+    color: #6a6f85;
+  }
+  
+  .erp-icons, .security-icons, .bank-icons {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .erp-icons img, .security-icons img, .bank-icons img {
+    width: 60px;
+    height: auto;
+  }
+  
+  .cta-section {
+    text-align: center;
+    background-color: #1e3baf;
+    padding: 2rem;
+    border-radius: 8px;
+  }
+  
+  .cta-section h2 {
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .cta-button {
+    padding: 0.8rem 2rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .demo-button {
+    background-color: #1bc47d;
+    color: white;
+  }
+  
+  .access-button {
+    background-color: #10a5f5;
+    color: white;
+  }
+  
